@@ -1,0 +1,20 @@
+INSERT INTO makers(name) values ("Asus");
+INSERT INTO makers(name) VALUES ("Lenovo");
+INSERT INTO makers(name) VALUES ("Hewlett-packard");
+INSERT INTO makers(name) VALUES ("Samsung");
+INSERT INTO makers(name) VALUES ("Seageate");
+INSERT INTO makers(name) VALUES ("Crucial");
+INSERT INTO makers(name) VALUES ("Gigabyte");
+INSERT INTO makers(name) VALUES ("Huawei");
+INSERT INTO makers(name) VALUES ("Xiaomi");
+
+INSERT INTO products(name,price,maker_id) VALUES ("Disco duro STA3 1TB",140,5);
+INSERT INTO products(name,price,maker_id) VALUES ("Memoria RAM DDR4 8GB",120,6);
+INSERT INTO products(name,price,maker_id) VALUES ("Disco SSD 1 TB",150.99,4);
+INSERT INTO products(name,price,maker_id) VALUES ("GeForce GTX 1050tu",185,7);
+INSERT INTO products(name,price,maker_id) VALUES ("GeForce GTX 1080 Xtreme",755,6);
+INSERT INTO products(name,price,maker_id) VALUES ("Monitor 24 LED Full HD",202,1);
+INSERT INTO products(name,price,maker_id) VALUES ("Monitor 27 LED Full HD ", 245.99,1);
+INSERT INTO products(name,price,maker_id) VALUES ("Portatil Yoga 520",559,2);
+INSERT INTO products(name,price,maker_id) VALUES ("Portatil Ideapd 320",444,2);
+INSERT INTO products(name,price,maker_id) VALUES ("Impresora HP Deskjet 3720",59.99,3);
